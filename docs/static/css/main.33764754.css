@@ -1,2 +1,539 @@
-@import url(https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css);.App{background:linear-gradient(90deg,#000,#002462,#00eee1)}.MainContainer{display:grid;grid-area:".Presentation" ".TimeLine2";grid-template-columns:25% 75%}.Header{align-content:center;background:linear-gradient(90deg,#000,#002462,#00eee1);height:60px;position:fixed;width:100%;z-index:5000}.Presentation{background-color:transparent;color:#fff;margin:40px auto 20px;padding:10px 0;position:fixed;width:25%}.hidden{display:none}.visible{display:block}#AboutMeTitle{color:#fff}#Name,#Seniority{margin-bottom:0;margin-top:0}#Seniority{color:#0d6efd}#imgOfCM{border:2px solid #000;border-bottom-left-radius:25px;border-top-right-radius:25px;box-sizing:border-box;height:auto;margin:5px 15%;width:70%}.btn{margin:5px}*{box-sizing:border-box;outline:none}h1{color:#777;font-weight:300;text-align:center}h1 span{font-weight:600}.projectsContainer{background-color:#d6fffd;background:linear-gradient(270deg,rgba(2,40,51,0),#b9dbe4),url(/static/media/backgroundCards.f8033ae40ce0bcd89412.jpg);background-size:contain;border:4px solid #00eee1;border-radius:25px;box-sizing:border-box;margin:70px 10px 20px 320px;outline:5px solid #000b43;overflow:hidden;padding:10px 0;position:relative;width:920px;z-index:2}.container:before{content:"";height:100%;left:50%;margin-left:-1px;position:absolute;top:0;width:2px;z-index:1}.timeline-block{clear:both;display:flex;justify-content:space-between;width:100%}.marker{background:#4fc1e9;border:2px solid #030c1b;border-radius:50%;height:16px;margin-left:50px;margin-top:10px;position:absolute;width:16px;z-index:3000}.timeline-content{border-left:2px solid #016;margin-left:57px;padding:0 15px;width:50%;z-index:1}.timeline-image{float:left;margin:10px;padding:0 10px;width:45%;z-index:1}.ProjImg{border:2px solid #000;border-bottom-left-radius:25px;border-top-right-radius:25px;box-sizing:border-box;height:auto;width:100%}.timeline-content h1{color:#016;font-size:30px;font-weight:500;margin-bottom:5px;margin-top:5px}.timeline-content h3,.timeline-content h4{color:#960707;font-size:20px;font-weight:500}.timeline-content span{color:#0d6efd;font-size:15px;margin-bottom:0;margin-top:0}.timeline-content p{font-size:8px;margin-bottom:0;margin-top:0}.timeline-content .links{color:#0d6efd;font-size:15px;font-weight:500;margin-bottom:0;margin-top:0}.aboutMeContainer,.contactContainer{background-color:#d6fffd;background-image:url(/static/media/backgroundContactMe.eb09041f4bd5488a44d3.jpg);background-size:cover;border:4px solid #00eee1;border-radius:25px;box-sizing:border-box;color:#fff;font-size:large;height:480px;margin:70px 10px 20px 320px;outline:5px solid #000b43;padding:10px 0;position:relative;width:920px;z-index:1}.social-icons{list-style:none;margin:100px 0;margin-bottom:0;padding-left:0;text-align:center}.social-icons li{display:inline-block;margin-bottom:4px;margin-right:10px}.social-icons li.title{color:#96a2b2;font-size:13px;font-weight:700;margin-right:15px;text-transform:uppercase}.social-icons a{background-color:#eceeef;border-radius:100%;color:#818a91;display:inline-block;font-size:16px;height:44px;line-height:44px;margin-right:8px;text-align:center;transition:all .2s linear;width:44px}.social-icons a:active,.social-icons a:focus,.social-icons a:hover{background-color:#29aafe;color:#fff}.social-icons.size-sm a{font-size:14px;height:34px;line-height:34px;width:34px}.social-icons a.facebook:hover{background-color:#3b5998}.social-icons a.mail:hover{background-color:#00aced}.social-icons a.linkedin:hover{background-color:#007bb6}.social-icons a.whatsapp:hover{background-color:#4cea7b}.social-icons a.instagram:hover{background-color:#ea4c89}.social-icons a.github:hover{background-color:#e6d36a}#coursesTitle{font-size:14pt}#coursesInfo,#coursesTitle{color:#fff;text-align:start}#coursesInfo{font-size:12pt}@media screen and (min-width:768px) and (max-width:1200px){.Header{align-content:center;height:60px;margin-top:-60px;position:fixed;width:100%;z-index:5000}.MainContainer{display:block;grid-template-areas:none;margin:60px auto;position:relative;width:100%}.Presentation{margin:60px auto 0;position:relative;width:100%;z-index:1}#imgOfCM{height:auto;margin:5px 20%;width:60%}#TimeLine{margin:20px 0;width:100%}#TimeLine,.projectsContainer{padding:10px;position:relative;z-index:1}.projectsContainer{margin:20px 5%;width:90%}.timeline-content{margin-left:25px;padding:0 7.5%;width:85%}.timeline-image{margin:10px;padding:0 10px;width:70%}#AboutMe{margin:0;width:100%}#AboutMe,.aboutMeContainer{padding:10px;position:relative;z-index:1}.aboutMeContainer{font-size:12pt;margin:20px 5%;width:90%}#Contact{margin:20px 0;width:100%}#Contact,.contactContainer{padding:10px;position:relative;z-index:1}.contactContainer{margin:20px 5%;width:90%}#Certif{margin:20px 0;padding:10px;position:relative;width:100%;z-index:1}.timeline-content h3{font-size:30px}.timeline-block-left{direction:ltr;float:none}.social-icons li.title{display:block;font-weight:600;margin-right:0}}@media screen and (max-width:769px){.Header{align-content:center;height:60px;margin-top:-60px;position:fixed;width:100%;z-index:5000}.MainContainer{display:block;grid-template-areas:none;margin:60px auto;position:relative;width:100%}.Presentation{margin:60px auto 0;position:relative;width:100%;z-index:1}#imgOfCM{height:auto;margin:5px 10%;width:80%}#TimeLine{margin:0;padding:0 10px;position:relative;width:100%;z-index:1}.marker{background:#4fc1e9;border:2px solid #030c1b;border-radius:50%;height:16px;margin-left:25px;margin-top:10px;position:absolute;width:16px;z-index:3000}.timeline-block{display:block;width:100%}.projectsContainer{margin:20px 5%;padding:10px;position:relative;width:90%;z-index:1}.timeline-content{margin-left:32px;padding:0 10%;width:90%}.timeline-image{display:flex;margin:10px 10%;padding:0 10px;width:90%}#AboutMe{margin:0;width:100%}#AboutMe,.aboutMeContainer{padding:10px;position:relative;z-index:1}.aboutMeContainer{font-size:10pt;margin:20px 5%;width:90%}#Contact{margin:20px 0;width:100%}#Contact,.contactContainer{padding:10px;position:relative;z-index:1}.contactContainer{margin:20px 5%;width:90%}#coursesTitle{font-size:11pt}#coursesInfo,#coursesTitle{color:#fff;text-align:start}#coursesInfo{font-size:10pt}.timeline-content h1{color:#016;font-size:23pt;font-weight:500;margin-bottom:5px;margin-top:5px}.timeline-content h4{color:#960707;font-size:18pt;font-weight:500}.timeline-content span{color:#0d6efd;font-size:17px;margin-bottom:0;margin-top:0}.timeline-content h3{font-size:18pt}.timeline-block-left{direction:ltr;float:none}.social-icons li.title{display:block;font-weight:600;margin-right:0}}.App{background-color:#252121;text-align:center}.App-logo{height:40vmin;pointer-events:none}@media (prefers-reduced-motion:no-preference){.App-logo{-webkit-animation:App-logo-spin 20s linear infinite;animation:App-logo-spin 20s linear infinite}}.App-header{align-items:center;background-color:#3170ec;color:#fff;display:flex;flex-direction:column;font-size:calc(10px + 2vmin);justify-content:center;min-height:100vh}.App-link{color:#61dafb}@-webkit-keyframes App-logo-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes App-logo-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}
+@import url(https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css);
+.App {
+  background: linear-gradient(90deg, #000, #002462, #00eee1);
+}
+.MainContainer {
+  display: grid;
+  grid-area: ".Presentation" ".TimeLine2";
+  grid-template-columns: 25% 75%;
+}
+.Header {
+  align-content: center;
+  background: linear-gradient(90deg, #000, #002462, #00eee1);
+  height: 60px;
+  position: fixed;
+  width: 100%;
+  z-index: 5000;
+}
+.Presentation {
+  background-color: transparent;
+  color: #fff;
+  margin: 40px auto 20px;
+  padding: 10px 0;
+  position: fixed;
+  width: 25%;
+}
+.hidden {
+  display: none;
+}
+.visible {
+  display: block;
+}
+#AboutMeTitle {
+  color: #fff;
+}
+#Name,
+#Seniority {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+#Seniority {
+  color: #0d6efd;
+}
+#imgOfCM {
+  border: 2px solid #000;
+  border-bottom-left-radius: 25px;
+  border-top-right-radius: 25px;
+  box-sizing: border-box;
+  height: auto;
+  margin: 5px 15%;
+  width: 70%;
+}
+.btn {
+  margin: 5px;
+}
+* {
+  box-sizing: border-box;
+  outline: none;
+}
+h1 {
+  color: #777;
+  font-weight: 300;
+  text-align: center;
+}
+h1 span {
+  font-weight: 600;
+}
+.projectsContainer {
+  background-color: #d6fffd;
+  background: linear-gradient(270deg, rgba(2, 40, 51, 0), #b9dbe4),
+    url(./static/media/backgroundCards.f8033ae40ce0bcd89412.jpg);
+  background-size: contain;
+  border: 4px solid #00eee1;
+  border-radius: 25px;
+  box-sizing: border-box;
+  margin: 70px 10px 20px 320px;
+  outline: 5px solid #000b43;
+  overflow: hidden;
+  padding: 10px 0;
+  position: relative;
+  width: 920px;
+  z-index: 2;
+}
+.container:before {
+  content: "";
+  height: 100%;
+  left: 50%;
+  margin-left: -1px;
+  position: absolute;
+  top: 0;
+  width: 2px;
+  z-index: 1;
+}
+.timeline-block {
+  clear: both;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.marker {
+  background: #4fc1e9;
+  border: 2px solid #030c1b;
+  border-radius: 50%;
+  height: 16px;
+  margin-left: 50px;
+  margin-top: 10px;
+  position: absolute;
+  width: 16px;
+  z-index: 3000;
+}
+.timeline-content {
+  border-left: 2px solid #016;
+  margin-left: 57px;
+  padding: 0 15px;
+  width: 50%;
+  z-index: 1;
+}
+.timeline-image {
+  float: left;
+  margin: 10px;
+  padding: 0 10px;
+  width: 45%;
+  z-index: 1;
+}
+.ProjImg {
+  border: 2px solid #000;
+  border-bottom-left-radius: 25px;
+  border-top-right-radius: 25px;
+  box-sizing: border-box;
+  height: auto;
+  width: 100%;
+}
+.timeline-content h1 {
+  color: #016;
+  font-size: 30px;
+  font-weight: 500;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+.timeline-content h3,
+.timeline-content h4 {
+  color: #960707;
+  font-size: 20px;
+  font-weight: 500;
+}
+.timeline-content span {
+  color: #0d6efd;
+  font-size: 15px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.timeline-content p {
+  font-size: 8px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.timeline-content .links {
+  color: #0d6efd;
+  font-size: 15px;
+  font-weight: 500;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.aboutMeContainer,
+.contactContainer {
+  background-color: #d6fffd;
+  background-image: url(./static/media/backgroundContactMe.eb09041f4bd5488a44d3.jpg);
+  background-size: cover;
+  border: 4px solid #00eee1;
+  border-radius: 25px;
+  box-sizing: border-box;
+  color: #fff;
+  font-size: large;
+  height: 480px;
+  margin: 70px 10px 20px 320px;
+  outline: 5px solid #000b43;
+  padding: 10px 0;
+  position: relative;
+  width: 920px;
+  z-index: 1;
+}
+.social-icons {
+  list-style: none;
+  margin: 100px 0;
+  margin-bottom: 0;
+  padding-left: 0;
+  text-align: center;
+}
+.social-icons li {
+  display: inline-block;
+  margin-bottom: 4px;
+  margin-right: 10px;
+}
+.social-icons li.title {
+  color: #96a2b2;
+  font-size: 13px;
+  font-weight: 700;
+  margin-right: 15px;
+  text-transform: uppercase;
+}
+.social-icons a {
+  background-color: #eceeef;
+  border-radius: 100%;
+  color: #818a91;
+  display: inline-block;
+  font-size: 16px;
+  height: 44px;
+  line-height: 44px;
+  margin-right: 8px;
+  text-align: center;
+  transition: all 0.2s linear;
+  width: 44px;
+}
+.social-icons a:active,
+.social-icons a:focus,
+.social-icons a:hover {
+  background-color: #29aafe;
+  color: #fff;
+}
+.social-icons.size-sm a {
+  font-size: 14px;
+  height: 34px;
+  line-height: 34px;
+  width: 34px;
+}
+.social-icons a.facebook:hover {
+  background-color: #3b5998;
+}
+.social-icons a.mail:hover {
+  background-color: #00aced;
+}
+.social-icons a.linkedin:hover {
+  background-color: #007bb6;
+}
+.social-icons a.whatsapp:hover {
+  background-color: #4cea7b;
+}
+.social-icons a.instagram:hover {
+  background-color: #ea4c89;
+}
+.social-icons a.github:hover {
+  background-color: #e6d36a;
+}
+#coursesTitle {
+  font-size: 14pt;
+}
+#coursesInfo,
+#coursesTitle {
+  color: #fff;
+  text-align: start;
+}
+#coursesInfo {
+  font-size: 12pt;
+}
+@media screen and (min-width: 768px) and (max-width: 1200px) {
+  .Header {
+    align-content: center;
+    height: 60px;
+    margin-top: -60px;
+    position: fixed;
+    width: 100%;
+    z-index: 5000;
+  }
+  .MainContainer {
+    display: block;
+    grid-template-areas: none;
+    margin: 60px auto;
+    position: relative;
+    width: 100%;
+  }
+  .Presentation {
+    margin: 60px auto 0;
+    position: relative;
+    width: 100%;
+    z-index: 1;
+  }
+  #imgOfCM {
+    height: auto;
+    margin: 5px 20%;
+    width: 60%;
+  }
+  #TimeLine {
+    margin: 20px 0;
+    width: 100%;
+  }
+  #TimeLine,
+  .projectsContainer {
+    padding: 10px;
+    position: relative;
+    z-index: 1;
+  }
+  .projectsContainer {
+    margin: 20px 5%;
+    width: 90%;
+  }
+  .timeline-content {
+    margin-left: 25px;
+    padding: 0 7.5%;
+    width: 85%;
+  }
+  .timeline-image {
+    margin: 10px;
+    padding: 0 10px;
+    width: 70%;
+  }
+  #AboutMe {
+    margin: 0;
+    width: 100%;
+  }
+  #AboutMe,
+  .aboutMeContainer {
+    padding: 10px;
+    position: relative;
+    z-index: 1;
+  }
+  .aboutMeContainer {
+    font-size: 12pt;
+    margin: 20px 5%;
+    width: 90%;
+  }
+  #Contact {
+    margin: 20px 0;
+    width: 100%;
+  }
+  #Contact,
+  .contactContainer {
+    padding: 10px;
+    position: relative;
+    z-index: 1;
+  }
+  .contactContainer {
+    margin: 20px 5%;
+    width: 90%;
+  }
+  #Certif {
+    margin: 20px 0;
+    padding: 10px;
+    position: relative;
+    width: 100%;
+    z-index: 1;
+  }
+  .timeline-content h3 {
+    font-size: 30px;
+  }
+  .timeline-block-left {
+    direction: ltr;
+    float: none;
+  }
+  .social-icons li.title {
+    display: block;
+    font-weight: 600;
+    margin-right: 0;
+  }
+}
+@media screen and (max-width: 769px) {
+  .Header {
+    align-content: center;
+    height: 60px;
+    margin-top: -60px;
+    position: fixed;
+    width: 100%;
+    z-index: 5000;
+  }
+  .MainContainer {
+    display: block;
+    grid-template-areas: none;
+    margin: 60px auto;
+    position: relative;
+    width: 100%;
+  }
+  .Presentation {
+    margin: 60px auto 0;
+    position: relative;
+    width: 100%;
+    z-index: 1;
+  }
+  #imgOfCM {
+    height: auto;
+    margin: 5px 10%;
+    width: 80%;
+  }
+  #TimeLine {
+    margin: 0;
+    padding: 0 10px;
+    position: relative;
+    width: 100%;
+    z-index: 1;
+  }
+  .marker {
+    background: #4fc1e9;
+    border: 2px solid #030c1b;
+    border-radius: 50%;
+    height: 16px;
+    margin-left: 25px;
+    margin-top: 10px;
+    position: absolute;
+    width: 16px;
+    z-index: 3000;
+  }
+  .timeline-block {
+    display: block;
+    width: 100%;
+  }
+  .projectsContainer {
+    margin: 20px 5%;
+    padding: 10px;
+    position: relative;
+    width: 90%;
+    z-index: 1;
+  }
+  .timeline-content {
+    margin-left: 32px;
+    padding: 0 10%;
+    width: 90%;
+  }
+  .timeline-image {
+    display: flex;
+    margin: 10px 10%;
+    padding: 0 10px;
+    width: 90%;
+  }
+  #AboutMe {
+    margin: 0;
+    width: 100%;
+  }
+  #AboutMe,
+  .aboutMeContainer {
+    padding: 10px;
+    position: relative;
+    z-index: 1;
+  }
+  .aboutMeContainer {
+    font-size: 10pt;
+    margin: 20px 5%;
+    width: 90%;
+  }
+  #Contact {
+    margin: 20px 0;
+    width: 100%;
+  }
+  #Contact,
+  .contactContainer {
+    padding: 10px;
+    position: relative;
+    z-index: 1;
+  }
+  .contactContainer {
+    margin: 20px 5%;
+    width: 90%;
+  }
+  #coursesTitle {
+    font-size: 11pt;
+  }
+  #coursesInfo,
+  #coursesTitle {
+    color: #fff;
+    text-align: start;
+  }
+  #coursesInfo {
+    font-size: 10pt;
+  }
+  .timeline-content h1 {
+    color: #016;
+    font-size: 23pt;
+    font-weight: 500;
+    margin-bottom: 5px;
+    margin-top: 5px;
+  }
+  .timeline-content h4 {
+    color: #960707;
+    font-size: 18pt;
+    font-weight: 500;
+  }
+  .timeline-content span {
+    color: #0d6efd;
+    font-size: 17px;
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+  .timeline-content h3 {
+    font-size: 18pt;
+  }
+  .timeline-block-left {
+    direction: ltr;
+    float: none;
+  }
+  .social-icons li.title {
+    display: block;
+    font-weight: 600;
+    margin-right: 0;
+  }
+}
+.App {
+  background-color: #252121;
+  text-align: center;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    -webkit-animation: App-logo-spin 20s linear infinite;
+    animation: App-logo-spin 20s linear infinite;
+  }
+}
+.App-header {
+  align-items: center;
+  background-color: #3170ec;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  justify-content: center;
+  min-height: 100vh;
+}
+.App-link {
+  color: #61dafb;
+}
+@-webkit-keyframes App-logo-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(1turn);
+    transform: rotate(1turn);
+  }
+}
+@keyframes App-logo-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(1turn);
+    transform: rotate(1turn);
+  }
+}
 /*# sourceMappingURL=main.33764754.css.map*/
