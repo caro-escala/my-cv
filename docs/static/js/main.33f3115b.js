@@ -8458,7 +8458,7 @@
         e.exports = n(813);
       },
       637: function (e, t, n) {
-        e.exports = n.p + "static/media/AboutMe.5552d0b7091116d9f1d2.jpg";
+        e.exports = n.p + "./static/media/AboutMe.5552d0b7091116d9f1d2.jpg";
       },
     },
     t = {};
@@ -8919,7 +8919,7 @@
                     url: "https://caro-escala.github.io/Photo-Gallery-from-Pixels-API/",
                     gitUrl:
                       "https://github.com/caro-escala/Photo-Gallery-from-Pixels-API",
-                    imgSrc: "/static/media/ProjID4.884b0d3c6aef25e5e63b.png",
+                    imgSrc: "./static/media/ProjID4.884b0d3c6aef25e5e63b.png",
                     alt: "Page of the Photo Gallery",
                   },
                   {
@@ -8934,7 +8934,7 @@
                     year: 2022,
                     url: "http://caroescasino.netlify.app/",
                     gitUrl: "https://github.com/caro-escala/Caro_es_Casino",
-                    imgSrc: "/static/media/ProjID3.a3ff98674e3d39d53a90.png",
+                    imgSrc: "./static/media/ProjID3.a3ff98674e3d39d53a90.png",
                     alt: "Page of the casino",
                   },
                   {
@@ -8949,7 +8949,7 @@
                     year: 2021,
                     url: "https://caro-escala.github.io/My-Darkest-Side/",
                     gitUrl: "https://github.com/caro-escala/My-Darkest-Side",
-                    imgSrc: "/static/media/ProjID2.22656f45bab00e332823.png",
+                    imgSrc: "./static/media/ProjID2.22656f45bab00e332823.png",
                     alt: "Page of My Darkest Side",
                   },
                   {
@@ -8965,7 +8965,7 @@
                     url: "https://mymostpoeticsidebycm.netlify.app/",
                     gitUrl:
                       "https://github.com/caro-escala/My-most-poetic-side-by-cm",
-                    imgSrc: "/static/media/ProjID1.a4794663743fd95c1211.png",
+                    imgSrc: "./static/media/ProjID1.a4794663743fd95c1211.png",
                     alt: "Inicial page of the blog",
                   },
                   {
@@ -8980,7 +8980,7 @@
                     url: "https://thecolourguessinggamebycm.netlify.app/",
                     gitUrl:
                       "https://github.com/caro-escala/The-colour-guessing-game-by-cm",
-                    imgSrc: "/static/media/ProjID0.4be111640358af7b91b8.png",
+                    imgSrc: "./static/media/ProjID0.4be111640358af7b91b8.png",
                     alt: "Inicial page of the game",
                   },
                 ])
@@ -8999,7 +8999,7 @@
                     url: "https://caro-escala.github.io/Photo-Gallery-from-Pixels-API/",
                     gitUrl:
                       "https://github.com/caro-escala/Photo-Gallery-from-Pixels-API",
-                    imgSrc: "/static/media/ProjID4.884b0d3c6aef25e5e63b.png",
+                    imgSrc: "./static/media/ProjID4.884b0d3c6aef25e5e63b.png",
                     alt: "Page of the Photo Gallery",
                   },
                   {
@@ -9014,7 +9014,7 @@
                     year: 2022,
                     url: "http://caroescasino.netlify.app/",
                     gitUrl: "https://github.com/caro-escala/Caro_es_Casino",
-                    imgSrc: "/static/media/ProjID3.a3ff98674e3d39d53a90.png",
+                    imgSrc: "./static/media/ProjID3.a3ff98674e3d39d53a90.png",
                     alt: "Page of the casino",
                   },
                   {
@@ -9029,7 +9029,7 @@
                     year: 2021,
                     url: "https://caro-escala.github.io/My-Darkest-Side/",
                     gitUrl: "https://github.com/caro-escala/My-Darkest-Side",
-                    imgSrc: "/static/media/ProjID2.22656f45bab00e332823.png",
+                    imgSrc: "./static/media/ProjID2.22656f45bab00e332823.png",
                     alt: "Page of My Darkest Side",
                   },
                   {
@@ -9045,7 +9045,7 @@
                     url: "https://mymostpoeticsidebycm.netlify.app/",
                     gitUrl:
                       "https://github.com/caro-escala/My-most-poetic-side-by-cm",
-                    imgSrc: "/static/media/ProjID1.a4794663743fd95c1211.png",
+                    imgSrc: "./static/media/ProjID1.a4794663743fd95c1211.png",
                     alt: "Inicial page of the blog",
                   },
                   {
@@ -9061,7 +9061,7 @@
                     url: "https://thecolourguessinggamebycm.netlify.app/",
                     gitUrl:
                       "https://github.com/caro-escala/The-colour-guessing-game-by-cm",
-                    imgSrc: "/static/media/ProjID0.4be111640358af7b91b8.png",
+                    imgSrc: "./static/media/ProjID0.4be111640358af7b91b8.png",
                     alt: "Inicial page of the game",
                   },
                 ]),
