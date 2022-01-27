@@ -67,7 +67,7 @@ h1 span {
 .projectsContainer {
   background-color: #d6fffd;
   background: linear-gradient(270deg, rgba(2, 40, 51, 0), #b9dbe4),
-    url(./static/media/backgroundCards.f8033ae40ce0bcd89412.jpg);
+    url(../media/backgroundCards.f8033ae40ce0bcd89412.jpg);
   background-size: contain;
   border: 4px solid #00eee1;
   border-radius: 25px;
@@ -163,7 +163,7 @@ h1 span {
 .aboutMeContainer,
 .contactContainer {
   background-color: #d6fffd;
-  background-image: url(./static/media/backgroundContactMe.eb09041f4bd5488a44d3.jpg);
+  background-image: url(../media/backgroundContactMe.eb09041f4bd5488a44d3.jpg);
   background-size: cover;
   border: 4px solid #00eee1;
   border-radius: 25px;
