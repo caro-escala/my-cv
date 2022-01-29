@@ -8458,7 +8458,7 @@
         e.exports = n(813);
       },
       637: function (e, t, n) {
-        e.exports = n.p + "../static/media/AboutMe.5552d0b7091116d9f1d2.jpg";
+        e.exports = n.p + "./static/media/AboutMe.5552d0b7091116d9f1d2.jpg";
       },
     },
     t = {};
