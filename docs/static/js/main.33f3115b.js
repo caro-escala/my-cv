@@ -8918,7 +8918,7 @@
                     year: 2022,
                     url: "https://caro-escala.github.io/Photo-Gallery-from-Pixels-API/",
                     gitUrl:
-                      "https://github.com/caro-escala/Photo-Gallery-from-Pixels-API",
+                      "https://github.com/caro-escala/Photo-Gallery-from-Pixels-API-originalCode",
                     imgSrc: "./static/media/ProjID4.884b0d3c6aef25e5e63b.png",
                     alt: "Page of the Photo Gallery",
                   },
@@ -8933,7 +8933,7 @@
                       "The purpose of this project was to train the tool 'React Create App' and start to use 'states' in the components. The page wasn't though to be responsive. I coded the effects myself, by using different class styles, events listener and setting times-out.",
                     year: 2022,
                     url: "http://caroescasino.netlify.app/",
-                    gitUrl: "https://github.com/caro-escala/Caro_es_Casino",
+                    gitUrl: "https://github.com/caro-escala/Caro_es_Casino-originalCode",
                     imgSrc: "./static/media/ProjID3.a3ff98674e3d39d53a90.png",
                     alt: "Page of the casino",
                   },
@@ -8948,7 +8948,7 @@
                       "My first aproach to the use of React, components and the renderization of content in html format from an jsx file.",
                     year: 2021,
                     url: "https://caro-escala.github.io/My-Darkest-Side/",
-                    gitUrl: "https://github.com/caro-escala/My-Darkest-Side",
+                    gitUrl: "https://github.com/caro-escala/My-Darkest-Side-originalCode",
                     imgSrc: "./static/media/ProjID2.22656f45bab00e332823.png",
                     alt: "Page of My Darkest Side",
                   },
@@ -8964,7 +8964,7 @@
                     year: 2021,
                     url: "https://mymostpoeticsidebycm.netlify.app/",
                     gitUrl:
-                      "https://github.com/caro-escala/My-most-poetic-side-by-cm",
+                      "https://github.com/caro-escala/My-most-poetic-side-by-cm-originalCode",
                     imgSrc: "./static/media/ProjID1.a4794663743fd95c1211.png",
                     alt: "Inicial page of the blog",
                   },
@@ -8979,7 +8979,7 @@
                     year: 2021,
                     url: "https://thecolourguessinggamebycm.netlify.app/",
                     gitUrl:
-                      "https://github.com/caro-escala/The-colour-guessing-game-by-cm",
+                      "https://github.com/caro-escala/The-colour-guessing-game-originalCode",
                     imgSrc: "./static/media/ProjID0.4be111640358af7b91b8.png",
                     alt: "Inicial page of the game",
                   },
@@ -8998,7 +8998,7 @@
                     year: 2022,
                     url: "https://caro-escala.github.io/Photo-Gallery-from-Pixels-API/",
                     gitUrl:
-                      "https://github.com/caro-escala/Photo-Gallery-from-Pixels-API",
+                      "https://github.com/caro-escala/Photo-Gallery-from-Pixels-API-originalCode",
                     imgSrc: "./static/media/ProjID4.884b0d3c6aef25e5e63b.png",
                     alt: "Page of the Photo Gallery",
                   },
@@ -9013,7 +9013,7 @@
                       "El prop\xf3sito de este proyecto fue entrenar la herramienta 'React Create App' y comnezar a usar estados en los componentes. La p\xe1gina no fue pensada para ser responsive. Escrib\xed el c\xf3digo para programar los efectos artesanalmente, usando diferentes clases y estilos, eventos de escucha y configurando los tiempos de ejecuci\xf3n.",
                     year: 2022,
                     url: "http://caroescasino.netlify.app/",
-                    gitUrl: "https://github.com/caro-escala/Caro_es_Casino",
+                    gitUrl: "https://github.com/caro-escala/Caro_es_Casino-originalCode",
                     imgSrc: "./static/media/ProjID3.a3ff98674e3d39d53a90.png",
                     alt: "Page of the casino",
                   },
@@ -9028,7 +9028,7 @@
                       "Mi primer acercamiento al uso de React, los componentes y la renderizaci\xf3n de contenido en formato html a partir de un archivo jsx.",
                     year: 2021,
                     url: "https://caro-escala.github.io/My-Darkest-Side/",
-                    gitUrl: "https://github.com/caro-escala/My-Darkest-Side",
+                    gitUrl: "https://github.com/caro-escala/My-Darkest-Side-originalCode",
                     imgSrc: "./static/media/ProjID2.22656f45bab00e332823.png",
                     alt: "Page of My Darkest Side",
                   },
@@ -9044,7 +9044,7 @@
                     year: 2021,
                     url: "https://mymostpoeticsidebycm.netlify.app/",
                     gitUrl:
-                      "https://github.com/caro-escala/My-most-poetic-side-by-cm",
+                      "https://github.com/caro-escala/My-most-poetic-side-by-cm-originalCode",
                     imgSrc: "./static/media/ProjID1.a4794663743fd95c1211.png",
                     alt: "Inicial page of the blog",
                   },
@@ -9060,7 +9060,7 @@
                     year: 2021,
                     url: "https://thecolourguessinggamebycm.netlify.app/",
                     gitUrl:
-                      "https://github.com/caro-escala/The-colour-guessing-game-by-cm",
+                      "https://github.com/caro-escala/The-colour-guessing-game-originalCode",
                     imgSrc: "./static/media/ProjID0.4be111640358af7b91b8.png",
                     alt: "Inicial page of the game",
                   },
@@ -9091,7 +9091,7 @@
                 (r =
                   "I started to learn coding for curiosity and I found it very amusing and challenging. I love the thinking proccess to apply logic, the idea of dividing the problem in small pieces and go step by step. I use to get very stusiastic with the stylishing of my page, I really work to make real my envision of the project, even if I don't have the skills o knowledge for that: I research until I get satisfied with the outcome."),
                 (a =
-                  "All my education in programing was made through free courses with out a coach to consult, meaning that I got here in an autodidactic way."),
+                  "All my education in programing was made through free courses without a coach to consult, meaning that I got here in an autodidactic way."),
                 (o =
                   "My level of English is advanced in writing and listening and intermediate / pre-advanced in speaking."))
               : "Spanish" === e.language &&
@@ -9101,7 +9101,7 @@
                 (r =
                   "Empec\xe9 a aprender programaci\xf3n por curiosidad y lo encontr\xe9 muy entretenido y desafiante. Me encanta el proceso de razonamiento para aplicar la l\xf3gica, la idea de dividir el problema en peque\xf1as piezas e ir abord\xe1ndolas una por una. Me entusiasma mucho darle estilo a mis p\xe1ginas, intento hacer real mi visi\xf3n del proyecto, incluso aunque no cuente con las herramientas o el conocimiento para ello: investigo hasta sentirme conforme con el resultado."),
                 (a =
-                  "Toda mi educaci\xf3n en programaci\xf3n fue realizada a trav\xe9s de cursos gratuitos on line, sin un instructor a qui\xe9n consultar, es decir que llegu\xe9 hasta aqu\xed de forma autodidacta."),
+                  "Toda mi educaci\xf3n en programaci\xf3n fue realizada a trav\xe9s de cursos gratuitos on line, de forma autodidacta, sin un instructor a qui\xe9n consultar."),
                 (o =
                   "Mi nivel de Ingl\xe9s es avanzado en escritura e interpretaci\xf3n auditiva, e intermedio / pre-avanzado en exposici\xf3n oral.")),
             (0, l.jsx)("div", {
